@@ -59,6 +59,6 @@ If you have any feedback, please reach out to us at csekhar.jr@gmail.com
 ## Roadmap
 
 - Data collection - Complete
-- Data processing - Done
-- Data Modeling - Done
-- Model comparison - Done
+- Data processing - Complete
+- Data Modeling - Complete
+- Model comparison - Complete
